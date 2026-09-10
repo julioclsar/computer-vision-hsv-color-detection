@@ -1,8 +1,8 @@
 ﻿# HSV Color Detection
 
-Gera uma mÃ¡scara HSV e indica a cor BGR predominante capturada pela webcam.
+Gera uma máscara HSV e indica a cor BGR predominante capturada pela webcam.
 
-Este Ã© um exercÃ­cio de estudo do curso de VisÃ£o Computacional, organizado como projeto independente para facilitar a leitura e a execuÃ§Ã£o.
+Este é um projeto independente criado durante um curso de Visão Computacional.
 
 ## Tecnologias
 
@@ -14,16 +14,12 @@ Este Ã© um exercÃ­cio de estudo do curso de VisÃ£o Computacional, organiza
 
 ~~~powershell
 pip install -r requirements.txt
-python Atividade1.py
+python hsv_color_detector.py
 ~~~
 
-> Este exercÃ­cio usa a webcam. Autorize o acesso Ã  cÃ¢mera e pressione **S** para encerrar.
+> Este exercício usa a webcam. Autorize o acesso à câmera e pressione **S** para encerrar.
 
 ## Arquivos
 
-- **Atividade1.py**: implementaÃ§Ã£o do exercÃ­cio.
-- Arquivos de imagem/classificador necessÃ¡rios Ã  demonstraÃ§Ã£o.
-
-## Contexto
-
-ExercÃ­cio originalmente localizado em **cap4/Atividade1.py** na coleÃ§Ã£o do curso.
+- **hsv_color_detector.py**: implementação do projeto.
+- Arquivos de imagem/classificador necessários à demonstração.
